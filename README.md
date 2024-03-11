@@ -12,13 +12,13 @@ Welcome to my custom CSS IntelliSense repository! 🚀
 
 ## Usage
 
-1. **Gap Properties**: Utilize gap properties by adding classes like `.gap-5-rem`, `.gap-10-px`, or `.gap-15-pct`.
+1. **Gap Properties**: Utilize gap properties by adding classes like `.gap-5-rem`, or `.gap-10`.
 
-2. **Dimensional Wonders**: Set heights and widths with ease using classes like `.height-150-px`, `.width-200-rem`, or `.height-50-pct`.
+2. **Dimensional Wonders**: Set heights and widths with ease using classes like `.h-150`, `.w-200pct`, or `.h-50pct`.
 
 3. **Colorful Palette**: Add colors in HSLA or HEX format, and experiment freely.
 
-4. **Layout Perfection**: Achieve layout perfection with flex, grid, and table properties. Just add classes like `.flex-container`, `.grid-container`, or `.table-row`.
+4. **Layout Perfection**: Achieve layout perfection with flex, grid, and table properties. Just add classes like `.flex`, `.grid`, or `.table-row`.
 
 ## Extending the Magic
 
