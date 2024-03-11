@@ -24,6 +24,45 @@ Welcome to my custom CSS IntelliSense repository! 🚀
 
 Feel free to include additional properties by creating separate CSS files. The magic is limitless!
 
+## Unique CSS Properties
+
+- display
+- grid-template-columns
+- padding-left
+- left
+- flex-basis
+- justify-content
+- border-radius
+- margin-right
+- line-height
+- flex
+- height
+- font-size
+- bottom
+- background
+- flex-wrap
+- flex-shrink
+- order
+- flex-grow
+- padding-right
+- width
+- margin-bottom
+- top
+- right
+- align-self
+- color
+- border
+- margin-left
+- padding-top
+- flex-direction
+- gap
+- margin-top
+- z-index
+- align-items
+- margin
+- padding
+- padding-bottom
+
 ## Need Syntax Help?
 
 For any syntax-related queries or assistance, reach out to me on Telegram: **@abrarishere**. I'm here to help you bring your CSS visions to life! ✨
