@@ -1,6 +1,13 @@
 # Awesome CSS IntelliSense
 
 Welcome to my custom CSS IntelliSense repository! 🚀
+- Add it to `<head>` tag by cdn
+  [Copy URL](https://cdn.jsdelivr.net/gh/abrarishere/fixyintellisence@main/fixy.min.c.css)
+
+-  or
+- download file.
+- Download from release
+
 
 ### Latest Update
 My latest update is the final public release. For access to private files, please contact me directly.
