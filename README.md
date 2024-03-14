@@ -3,7 +3,7 @@
 Welcome to my custom CSS IntelliSense repository! 🚀
 - Add it to `<head>` tag by cdn
   [Copy URL](https://cdn.jsdelivr.net/gh/abrarishere/fixyintellisence@main/fixy.min.c.css)
-
+[`https://cdn.jsdelivr.net/gh/abrarishere/fixyintellisence@main/fixy.min.c.css`](#)
 
 - or download file.
 - Download from release
