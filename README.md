@@ -8,6 +8,7 @@ Welcome to my custom CSS IntelliSense repository! 🚀
 
 
 - Or Download from release
+- (https://github.com/abrarishere/fixyintellisence/releases/download/FixyIntelliSence-1.3/fixy.min.css)
 
 
 ### Latest Update
