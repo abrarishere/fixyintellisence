@@ -7,8 +7,7 @@ Welcome to my custom CSS IntelliSense repository! 🚀
 <br>`https://cdn.jsdelivr.net/gh/abrarishere/fixyintellisence@main/fixy.min.c.css`
 
 
-- or download file.
-- Download from release
+- Or Download from release
 
 
 ### Latest Update
