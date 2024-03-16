@@ -16,7 +16,7 @@ My latest update is the final public release. For access to private files, pleas
 
 ## Documentation
 For comprehensive documentation, please visit my website.
-
+(https://abrarishere.github.io/getfixy/doc.html)
 ## Features
 - **Partial Properties**: Enjoy IntelliSense for partial CSS properties.
 - **Gap Magic**: Seamless support for gap properties ranging from 1 to 100 in rem, px, and percentage.
